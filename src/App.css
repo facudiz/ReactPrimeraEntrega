@@ -1,0 +1,17 @@
+#cart-widget > span {
+  color: white;
+  padding-left: 1rem;
+  font-weight: 900;
+}
+
+.navbar{
+  padding: 0;
+}
+
+.contenedor{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 0;
+}
